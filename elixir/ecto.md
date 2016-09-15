@@ -1,6 +1,6 @@
 # Ecto
 
-## [https://hexdocs.pm/ecto/Ecto.html#build_assoc/3](build_assoc/3)
+## [build_assoc/3](https://hexdocs.pm/ecto/Ecto.html#build_assoc/3)
 
 Example schema:
 ```elixir
