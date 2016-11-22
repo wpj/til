@@ -30,3 +30,9 @@ Ctrl+W T
 " Close every window in the current tabview but the current one
 Ctrl+W o
 ```
+
+### Show configuration options:
+
+```
+:options
+```
