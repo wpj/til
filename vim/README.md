@@ -36,3 +36,7 @@ Ctrl+W o
 ```
 :options
 ```
+
+## Switch between current and previously open buffer
+
+`Ctrl+6`
